@@ -12,4 +12,4 @@ To tackle this business question, we break it down to four smaller questions:
 
 **Tool used**: Microsoft SQL Server Management, Microsoft Power BI.
 
-**Code**: retail-sales-analysis.sql
+**Code**: (retail-sales-analysis.sql)
