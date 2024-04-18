@@ -11,3 +11,5 @@ To tackle this business question, we break it down to four smaller questions:
   * Where are they based mostly?
 
 **Tool used**: Microsoft SQL Server Management, Microsoft Power BI.
+
+**Code**: (https://github.com/hoangkhanhphuongdang/retail-customer-trends-analysis/blob/main/retail-sales-analysis.sql)
