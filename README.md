@@ -23,7 +23,7 @@ To tackle this business question, we break it down to four smaller questions:
     - Top revenue-generating states include Montana, California, Idaho, Illinois, and Nevada, known for outdoor activities and urban centres.
  
  * Customer Behaviour insights (purchase frequency, revenue analysis, top selling category and items, review rating):
-    - Average customer spend is £58-60, with 25 purchases per customer and an average review rating of 3.7/5.
+    - Average customer spend is $58-60, with 25 purchases per customer and an average review rating of 3.7/5.
     - Clothing is the top-selling category by revenue, but accessories are most frequently bought.
     - Nearly half of customers (47%) use discounts, with a quarter subscribing to the shop for potential long-term engagement.
     - Payment methods vary; credit cards are preferred by the working age group, while bank transfers are most common overall.
