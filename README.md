@@ -18,21 +18,21 @@ To tackle this business question, we break it down to four smaller questions:
 
 **Results**:
  * Demographic insights (gender, age group distributions and geographical focus):
-  - The shop attracts predominantly male customers aged 25-54, representing 50% of purchases. They prioritize career advancement, family balance, and financial stability.
-  - The male-to-female ratio is 3:1, indicating a focus on men's fashion or career-related items.
-  - Top revenue-generating states include Montana, California, Idaho, Illinois, and Nevada, known for outdoor activities and urban centres.
+    - The shop attracts predominantly male customers aged 25-54, representing 50% of purchases. They prioritize career advancement, family balance, and financial stability.
+    - The male-to-female ratio is 3:1, indicating a focus on men's fashion or career-related items.
+    - Top revenue-generating states include Montana, California, Idaho, Illinois, and Nevada, known for outdoor activities and urban centres.
  
  * Customer Behaviour insights (purchase frequency, revenue analysis, top selling category and items, review rating):
-  - Average customer spend is £58-60, with 25 purchases per customer and an average review rating of 3.7/5.
-  - Clothing is the top-selling category by revenue, but accessories are most frequently bought.
-  - Nearly half of customers (47%) use discounts, with a quarter subscribing to the shop for potential long-term engagement.
-  - Payment methods vary; credit cards are preferred by the working age group, while bank transfers are most common overall.
-  - Customers shop approximately once every three months, aligning with seasonal changes.
+    - Average customer spend is £58-60, with 25 purchases per customer and an average review rating of 3.7/5.
+    - Clothing is the top-selling category by revenue, but accessories are most frequently bought.
+    - Nearly half of customers (47%) use discounts, with a quarter subscribing to the shop for potential long-term engagement.
+    - Payment methods vary; credit cards are preferred by the working age group, while bank transfers are most common overall.
+    - Customers shop approximately once every three months, aligning with seasonal changes.
 
  * Marketing insights:
-  - Fall is the most profitable season, followed by winter, spring, and summer.
-  - Seasonal preferences vary by payment and shipping methods; spring sees the highest sales volume, with credit cards and 2-day shipping being preferred.
-  - Analysis of payment methods and shipping types reveals insights different from revenue-focused demographics.
+    - Fall is the most profitable season, followed by winter, spring, and summer.
+    - Seasonal preferences vary by payment and shipping methods; spring sees the highest sales volume, with credit cards and 2-day shipping being preferred.
+    - Analysis of payment methods and shipping types reveals insights different from revenue-focused demographics.
 
  * Seasonality insights (most profitable season, category and items analysis throughout each season):
     - The most profitable season is fall, then winter, spring and lastly summer.
